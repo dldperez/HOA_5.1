@@ -1,2 +1,17 @@
-192.168.56.113 apache_package=apache2 php_package=libapache2-mod-php
-192.168.56.114 apache_package=httpd php_package=php
+[web_servers]
+192.168.56.135
+#Ubuntu
+
+[db_servers]
+192.168.56.138
+#Centos
+
+
+[file_servers] 
+192.168.56.139
+#Ubuntu
+
+
+
+
+ 
